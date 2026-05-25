@@ -1,7 +1,14 @@
-<!-- ===================== CUSTOM BANNER ===================== -->
+<!-- ===================== BANNER (SAFE VERSION) ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=250&section=header&text=Adnan%20Dewan&fontSize=50&fontAlignY=35&desc=Web%20Developer%20%7C%20Graphic%20Designer%20%7C%20Freelancer&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- 🔥 OPTIONAL: Custom Banner (Upload korle eta use koro) -->
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/Addnann/Addnann/main/banner.png" />
 </p>
+-->
 
 <h1 align="center">Hi 👋, I'm Adnan Dewan</h1>
 <h3 align="center">💻 Web Developer | 🎨 Graphic Designer | 🚀 Freelancer</h3>
