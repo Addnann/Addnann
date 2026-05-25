@@ -1,18 +1,23 @@
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adnan%20Dewan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Adnan Dewan</h1>
 <h3 align="center">💻 Web Developer | 🎨 Graphic Designer | 🚀 Freelancer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;React+Learner;Freelancer;Creative+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React+Learner;Freelancer;Creative+Designer" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Working on **Web Development Projects**
-- 🌱 Currently learning **React.js & Modern JavaScript**
-- 🤝 Open to **Collaboration (Web Projects)**
-- 💬 Ask me about **Frontend, Design & Freelancing**
-- ⚡ Fun fact: I turn ideas into real designs & code
+- 🔭 Working on **Modern Web Projects**
+- 🌱 Learning **React.js, Next.js**
+- 🤝 Open to **Collaboration**
+- 💬 Ask me about **Frontend & Design**
+- ⚡ Fun fact: I mix creativity with code
 
 ---
 
@@ -29,6 +34,21 @@
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,django,mysql,git,github,figma,ps,ai" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+<p align="center">
+
+<a href="https://github.com/Addnann/eid_salami_card">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Addnann&repo=eid_salami_card&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Addnann">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Addnann&repo=YOUR_REPO&theme=tokyonight&hide_border=true" />
+</a>
+
 </p>
 
 ---
@@ -54,6 +74,6 @@
 
 ## 🔥 Current Focus
 ```text
-🚀 Freelancing Career Growth
-💻 Advanced React Learning
-🎯 Building Strong Portfolio
+🚀 Freelancing Growth
+💻 Advanced React
+🎯 Strong Portfolio
