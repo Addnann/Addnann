@@ -25,6 +25,8 @@
 - 🤝 Open to **Collaboration**
 - 💬 Ask me about **Frontend & Design**
 - ⚡ Fun fact: I mix creativity with code
+- 📍 Based in Dhaka, Bangladesh
+- 📫 Reach me at adnandewan77@gmail.com
 
 ---
 
