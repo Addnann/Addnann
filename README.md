@@ -1,6 +1,6 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== CUSTOM BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adnan%20Dewan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/Addnann/Addnann/main/banner.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Adnan Dewan</h1>
@@ -46,7 +46,7 @@
 </a>
 
 <a href="https://github.com/Addnann">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Addnann&repo=YOUR_REPO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Addnann&repo=YOUR_BEST_PROJECT&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
